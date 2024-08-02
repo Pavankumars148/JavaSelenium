@@ -24,6 +24,7 @@ public class evenOdd {
                     System.out.println("Given number " + i + " even");
                 } else {
                     System.out.println("Given number " + i + " odd");
+                    System.out.println("Given number " + i + " odd");
                 }
             }
         } catch (Exception e) {
